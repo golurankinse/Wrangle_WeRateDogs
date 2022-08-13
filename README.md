@@ -9,5 +9,5 @@ Real-world data rarely comes clean, hence needs to wrangle it. Using Python and 
 
 
 
-![dog-rates-social.jpg](attachment:dog-rates-social.jpg)
+![dog-rates-social](https://user-images.githubusercontent.com/104328188/184506010-c39a9fe8-6cb6-4bfd-957b-689f38116c50.jpg)
 
